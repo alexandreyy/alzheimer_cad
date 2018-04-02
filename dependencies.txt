@@ -1,0 +1,12 @@
+FSL - BET2
+https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
+
+Advanced Normalization Tools
+http://stnava.github.io/ANTs/
+
+Python packages
+nibabel
+matplotlib
+numpy
+scipy
+scikit-learn
